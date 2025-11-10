@@ -21,11 +21,11 @@ Description:
 A complete platform designed for companies to manage support tickets, clients, technicians, and performance reports.
 The system leverages artificial intelligence to automatically classify tickets and optimize the support workflow.
 Tech Stack:
-Java
-Spring Boot
-React
-AWS
-MySQL
+- Java
+- Spring Boot
+- React
+- AWS
+- MySQL
 
 Project Highlights:
 - RESTful API with JWT authentication
